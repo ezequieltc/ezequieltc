@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ezequiel Teruel Cappello</h1>
 <h3 align="center">A passionate Python developer and student from Buenos Aires, Argentina</h3>
 
-Started my career as Engineer but lately i've found a new passion for programming. I am a self-taught programmer who learned from Youtube and courses i've taken. I love programming and can spend hours in front of my IDE tying to find solutions to problems I find in my daily routine. Please, feel free to contact me!.
+Started my career as Engineer but lately I found a new passion for programming. I am a self-taught programmer who learned from Youtube and courses I've taken. I love programming and can spend hours in front of my IDE tying to find solutions to problems I find in my daily routine. Please, feel free to contact me!.
 
 - 🔭 I’m currently working on **CaraLibro** a social media based on Facebook.
 
