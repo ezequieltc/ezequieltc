@@ -3,7 +3,7 @@
 
 Started my career as Engineer but lately I found a new passion for programming. I am a self-taught programmer who learned from Youtube and courses I've taken. I love programming and can spend hours in front of my IDE tying to find solutions to problems I find in my daily routine. Please, feel free to contact me!.
 
-- 🔭 I’m currently working on **Inventory System** a simple server inventory system using Python and Django.
+- 🔭 I’m currently working on **Automated Kanban Dashboard** with Javascipt and NodeJS backend.
 
 - 📫 How to reach me **ezequielteruel@hotmail.com**
 
